@@ -19,4 +19,10 @@ header {
         }
 }
 }
-
+body {
+    section {
+        h2  { 
+@include orange-heading;
+        }
+    }
+}

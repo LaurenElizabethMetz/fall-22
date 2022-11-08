@@ -1,5 +1,5 @@
 @mixin orange-heading($heading-1) {
-    color: orange;
+    color: $secondary-font-color;
     font-size: 10rem;
     font-family: $font-title;
     font-style: italic;
